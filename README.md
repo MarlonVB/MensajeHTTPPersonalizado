@@ -1,0 +1,1 @@
+Este proyecto fue creado con el proposito de subir a mande de libreria el codigo. De esta manera podremos reutilizarlo de manera mas simple en cualquier proyecto. El codigo utilizado para esta practica no fue de autoria propia sino se ha utilizado codigo expuesto en el siguiente link: https://es.stackoverflow.com/questions/167852/spring-boot-webservice-rest-personalizar-response
